@@ -36,7 +36,7 @@ gem 'jbuilder', '~> 2.5'
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.1.0', require: false
 
-gem 'omniauth', '~> 1.8.1'
+gem 'omniauth', '~> 1.9.2'
 gem 'omniauth-auth0', '~> 2.0.0'
 
 group :development, :test do
